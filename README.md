@@ -1,4 +1,4 @@
-## fairMuse
+## FairMuse
 
 A SPA Music streaming service that aims to distribute revenue fairly among artists. FairMuse tracks the stream count of each listener and divides their monthly subscription proportionately amongst the artists they've listened to that month.
 
